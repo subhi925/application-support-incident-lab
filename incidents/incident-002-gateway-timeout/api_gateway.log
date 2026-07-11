@@ -1,0 +1,4 @@
+2026-07-11 12:01:10 INFO  [gateway] POST /api/v1/checkout - Request received from user_id=4421
+2026-07-11 12:01:15 INFO  [gateway] Forwarding payment payload to external vendor: ThirdPartyPayExpress
+2026-07-11 12:01:45 ERROR [gateway] POST /api/v1/checkout - RuntimeException: HTTP 504 Gateway Timeout from remote partner (ThirdPartyPayExpress). Total execution time: 30050ms
+2026-07-11 12:01:45 WARN  [gateway] Thread pool safely released for request_id=req_9921
