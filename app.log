@@ -1,3 +1,6 @@
-INFO:root:Starting calculation
-INFO:root:Calculation successful. Final price: 80
-ERROR:root:Error converting discount amount to integer: invalid literal for int() with base 10: 'abc'
+2026-07-20 10:37:41,021 - ERROR - Error converting discount amount to integer: invalid literal for int() with base 10: 'abc'
+07/20/2026 10:38:44 AM - ERROR - Error converting discount amount to integer: invalid literal for int() with base 10: 'abc'
+07/20/2026 11:14:10 AM - ERROR - Error converting discount amount to integer: invalid literal for int() with base 10: 'abc'
+07/25/2026 08:43:14 PM - ERROR - Error converting discount amount to float: could not convert string to float: 'abc'
+07/25/2026 08:43:19 PM - ERROR - Error converting discount amount to float: could not convert string to float: 'abc'
+07/25/2026 08:43:21 PM - ERROR - Error converting discount amount to float: could not convert string to float: 'abc'

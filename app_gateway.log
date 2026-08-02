@@ -1,0 +1,6 @@
+08/02/2026 08:20:00 PM - ERROR - Amount cannot be negative.
+08/02/2026 08:21:19 PM - ERROR - Payload missing required fields.
+08/02/2026 08:21:35 PM - INFO - Payload validation successful.
+08/02/2026 08:21:53 PM - ERROR - Amount cannot be negative.
+08/02/2026 08:22:16 PM - ERROR - Error decoding JSON payload: Illegal trailing comma before end of object: line 1 column 17 (char 16)
+08/02/2026 08:23:02 PM - ERROR - Payload missing required fields.
